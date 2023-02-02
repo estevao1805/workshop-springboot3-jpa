@@ -1,4 +1,4 @@
-package com.estevao.estudos.course.entitys;
+package com.estevao.estudos.course.entities;
 
 import java.io.Serializable;
 import java.util.Objects;
